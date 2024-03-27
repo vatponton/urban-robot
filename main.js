@@ -7,7 +7,7 @@
       }
       for (var i = 0; i < arr.length; i += 1) {
         current[index] = arr[i];
-        variations(arr, k, index + 1, current);
+        variations(arr, k, index + 1, current);//more here
       }
     }
 
