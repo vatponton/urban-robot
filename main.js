@@ -19,7 +19,7 @@
       res = undefined;
       return temp;
     };
-  }());
+  }());//good
 
   exports.variationsWithRepetition = variationsWithRepetition;
 
